@@ -24,4 +24,4 @@ The project consists of two main files:
   - **Classification of Alarm Types**
   - **Geospatial Analysis**
   - **Final Conclusions**
-  - **📌 General Conclusion:** Summarizes key findings, including escalation trends, temporal patterns, geographical shifts, and specific attack strategies.
+  - **General Conclusion:** Summarizes key findings, including escalation trends, temporal patterns, geographical shifts, and specific attack strategies.
