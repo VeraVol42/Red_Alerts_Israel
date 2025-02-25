@@ -18,10 +18,9 @@ The project consists of two main files:
 ### 2. Analysis & Research Plan Script
 - **📝 Research Plan:**
   
-  - **General Analysis of Alerts**
+  - **Temporal Analysis**
   - **Analysis of Alert Timing and Weekly Patterns**
   - **Identification of Cities and Localities with the Highest and Lowest Number of Alerts**
   - **Classification of Alarm Types**
   - **Geospatial Analysis**
-  - **Final Conclusions**
   - **General Conclusion:** Summarizes key findings, including escalation trends, temporal patterns, geographical shifts, and specific attack strategies.
