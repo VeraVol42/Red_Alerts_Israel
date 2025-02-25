@@ -8,14 +8,14 @@ This repository contains a project focused on analyzing the temporal and spatial
 
 The project consists of two main files:
 
-### 1. Dataset Creation Script
+### 1. Dataset Creation
 - **📥 Data Extraction:** Extracts raw alert data from the Cumta Telegram channel.
 - **🧹 Data Preprocessing:** Cleans and structures the data.
 - **📊 Output:** Generates two datasets:
   - One with detailed localities.
   - One where zones of large cities are combined into a single record.
 
-### 2. Analysis & Research Plan Script
+### 2. Analysis & Research
 - **📝 Research Plan:**
   
   - **Temporal Analysis**
