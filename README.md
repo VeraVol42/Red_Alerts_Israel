@@ -27,5 +27,5 @@ The project consists of two main files:
 
 
 ## Interactive Maps
-- [Choropleth Map](maps/israel_choropleth_map.html)
+- [Choropleth Map]([maps](https://VeraVol42.github.io/my-repo/israel_choropleth_map.html)
 - [Heatmap](maps/heatmap_last_war.html)
