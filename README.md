@@ -15,7 +15,7 @@ The project consists of two main files:
   - One with detailed localities.
   - One where zones of large cities are combined into a single record.
 
-### 2. Analysis & Research
+### 2. Analysis
 - **📝 Research Plan:**
   
   - **Temporal Analysis**
