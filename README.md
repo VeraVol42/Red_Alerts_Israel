@@ -24,3 +24,8 @@ The project consists of two main files:
   - **Classification of Alarm Types**
   - **Geospatial Analysis**
   - **General Conclusion:** Summarizes key findings, including escalation trends, temporal patterns, geographical shifts, and specific attack strategies.
+
+
+## Interactive Maps
+- [Choropleth Map](maps/israel_choropleth_map.html)
+- [Heatmap](maps/heatmap_last_war.html)
