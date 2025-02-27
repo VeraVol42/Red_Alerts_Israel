@@ -27,5 +27,6 @@ The project consists of two main files:
 
 
 ## Interactive Maps
-- [Choropleth Map](https://VeraVol42.github.io/Red_Alerts_Israel_Analysis/israel_choropleth_map.html)
-- [Heatmap](maps/heatmap_last_war.html)
+- [Heatmap of alerts for all localities](https://VeraVol42.github.io/Red_Alerts_Israel_Analysis/heatmap_df.html)
+- [Heatmap of alerts for localities since October 7, 2023](https://VeraVol42.github.io/Red_Alerts_Israel_Analysis/heatmap_last_war.html)
+- [Israel Choropleth Map with Number of Alerts by District](https://VeraVol42.github.io/Red_Alerts_Israel_Analysis/israel_choropleth_map.html)
