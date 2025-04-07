@@ -28,10 +28,10 @@ The project consists of two main files:
 
 ## 🛠️ Technologies & Libraries  
 - **Python**  
-- **Data Analysis & Visualization**: pandas, numpy, matplotlib, seaborn, statsmodels, scipy  
-- **Geospatial**: geopy, folium  
-- **Web & Text Parsing**: BeautifulSoup, re, collections  
-- **System & Utils**: os, json, time
+- **Data Analysis & Visualization**: `pandas`, `numpy`, `matplotlib`, `seaborn`, `statsmodels`, `scipy`  
+- **Geospatial**: `geopy`, `folium`  
+- **Web & Text Parsing**: `BeautifulSoup`, `re`, `collections`  
+- **System & Utils**: `os`, `json`, `time`
 
 
 ## Interactive Maps 
