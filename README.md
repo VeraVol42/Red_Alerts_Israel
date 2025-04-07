@@ -26,6 +26,14 @@ The project consists of two main files:
   - **General Conclusion:** Summarizes key findings, including escalation trends, temporal patterns, geographical shifts, and specific attack strategies.
 
 
+## 🛠️ Technologies & Libraries  
+- **Python**  
+- **Data Analysis & Visualization**: pandas, numpy, matplotlib, seaborn, statsmodels, scipy  
+- **Geospatial**: geopy, folium  
+- **Web & Text Parsing**: BeautifulSoup, re, collections  
+- **System & Utils**: os, json, time
+
+
 ## Interactive Maps 
 - [Heatmap of alerts for all localities](https://VeraVol42.github.io/Red_Alerts_Israel/heatmap_df.html) 
 - [Heatmap of alerts for localities since October 7, 2023](https://VeraVol42.github.io/Red_Alerts_Israel/heatmap_last_war.html)
