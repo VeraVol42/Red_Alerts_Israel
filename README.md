@@ -1,6 +1,6 @@
 # 🚀 Israel Red Alerts: Temporal & Spatial Analysis
 
-This repository contains a project focused on analyzing the temporal and spatial patterns of red alerts in Israel. The analysis is based on data extracted from the **Cumta Telegram channel** and covers the period from **December 26, 2018 – January 19, 2025**.
+This repository contains a project focused on analyzing the temporal and spatial patterns of red alerts in Israel. The analysis is based on data extracted from the **Cumta Telegram channel** and covers the period from **December 26, 2018 – October 5, 2025**.
 
 ---
 
@@ -15,7 +15,7 @@ The project consists of two main files:
   - One with detailed localities.
   - One where zones of large cities are combined into a single record.
 
-### 2. Analysis
+### 2. Analysis 
 - **📝 Research Plan:**
   
   - **Temporal Analysis**
